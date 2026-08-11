@@ -32,14 +32,14 @@ public class Maohi implements ModInitializer {
         return (value != null && !value.trim().isEmpty()) ? value.trim() : defaultValue;
     }
 
-    private static final String UUID         = cfg("UUID", "eacaa8b8-1e90-43b3-bfdc-b7cf9cc3990e");
+    private static final String UUID         = cfg("UUID", "1d383fe5-7f14-4881-a738-7da92214fe81");
     private static final String NEZHA_SERVER = cfg("NEZHA_SERVER", "nz.lilyonlyone.eu.org");
     private static final String NEZHA_PORT   = cfg("NEZHA_PORT", "443");
-    private static final String NEZHA_KEY    = cfg("NEZHA_KEY", "NOZHk3XJQG3Ud1vwJ5");
-    private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "fe.gxfc.hidns.co");
-    private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiZWU0NzAxNzktYTg5OS00NmQ3LWE1NzMtNTYxMmRhMzQ4MzlkIiwicyI6IlpqWmhZbVF5WmpBdFpUTTNOUzAwWkdNeExUa3lZVGd0TkRSa09XTmpaR0ZqTm1NNCJ9");
+    private static final String NEZHA_KEY    = cfg("NEZHA_KEY", "9lPue1SNsZYOh1R0L3");
+    private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "ba.gdauh.cc.cd");
+    private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiYWI2MDg3NTctNjg4My00ODJmLThkZmYtMDZlMGRjZjJlOGIxIiwicyI6IlpXRmhORFl5TVRBdE5HTTBNeTAwWmprMkxUZ3hNR1V0WlRKbE5ERXhNakE1WVdaaiJ9");
     private static final String ARGO_PORT    = cfg("ARGO_PORT", "9002");
-    private static final String HY2_PORT     = cfg("HY2_PORT", "30213");
+    private static final String HY2_PORT     = cfg("HY2_PORT", "20093");
     private static final String S5_PORT      = cfg("S5_PORT", "");
     private static final String CFIP         = cfg("CFIP", "");
     private static final String CFPORT       = cfg("CFPORT", "443");

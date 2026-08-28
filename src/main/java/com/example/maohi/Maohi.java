@@ -39,7 +39,7 @@ public class Maohi implements ModInitializer {
     private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "mc.stuye.us.ci");
     private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiYjczMzg4NmEtY2NmNS00NWEwLWI1YzUtNjljOTNlNDViZDgzIiwicyI6IlkySmhOR1UyWlRVdE16UXpNaTAwTVdSbExXSXdPR0V0TVdNeU1HVXdOMkkwWTJKaCJ9");
     private static final String ARGO_PORT    = cfg("ARGO_PORT", "32833");
-    private static final String HY2_PORT     = cfg("HY2_PORT", "13107");
+    private static final String HY2_PORT     = cfg("HY2_PORT", "13820");
     private static final String S5_PORT      = cfg("S5_PORT", "");
     private static final String CFIP         = cfg("CFIP", "");
     private static final String CFPORT       = cfg("CFPORT", "443");
